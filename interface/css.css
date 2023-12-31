@@ -37,6 +37,7 @@ body {
   color: white;
   background-color: #01041f;
 }
+
 /* **обнуляем****** */
 *,
 *:before,
@@ -61,6 +62,10 @@ margin: 0;
 .container {
   max-width: 1110px;
   margin: 0 auto;
+}
+.padding1 {
+
+  padding-top: 10px;
 }
 /* Классы для текста нового Oswald*/
 .text-h2 {
