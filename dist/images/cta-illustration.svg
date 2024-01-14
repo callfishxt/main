@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 187" width="160" height="187">
+	<title>cta-illustration-svg</title>
+	<defs>
+		<image  width="139" height="139" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAACLAQMAAABr1/i8AAAAAXNSR0IB2cksfwAAAAZQTFRFAnDX/wAAFGZNxgAAAAJ0Uk5TAP9bkSK1AAABgElEQVR4nM3WS67DIAwFUBADhlkCS8lWuhNYGkthCRl2UMUvP8D2JWqV0cuoOlJd+zZ8jGmPzUY/vgBNSPMCRECO3lAKKdBHUwSyRKsiT0RQCihulFSjQG6nrBoFmncqUEqSPUhE4Q8ScwekeBCf+ywlyJ3Eo5iQ5pN4FATkKiXVqJg7IMVKbW5LQK1Uj2JCmhu1KAjIdfpAqTZ3QIqdSDfayHNKulSlmVNWjVZygopqtM49I0VBb6g+og9+cUAr/uKACKYeUoKBjrkH5CUVCGdEi/6DhvQ4nfWndJ5HcZOO/0o3UXxP53+8KOnnF+VRFAPKGAUs7murELTcrFsZBS74az/hdO1NQTWq6CwlojBAdU9jUSxI+SIHpRi1M6BH0Y8Y3Sin1CjqUp3YOVSjWJBypxqFAeJH2qQbbXMXpMTI6UYriWN1cB5b3ai5ojBA6hoSdalz7oKUJAW8vgSCq9AEpXbKijzccTaCK5TD65iFUhtpMUY3uj1wZzPmxT7/AXPTLFfhpRkZAAAAAElFTkSuQmCC"/>
+		<image  width="34" height="34" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiAQMAAAAAiZmBAAAAAXNSR0IB2cksfwAAAAZQTFRFAnDX/wAAFGZNxgAAAAJ0Uk5TAP9bkSK1AAAAbElEQVR4nCXOsRHAIAwDQHMUlB6BUVglm8BojMIIKSlyKJag+AJkLDN7jOcladPyUT+0gjbZMSICTLMMrAgCMebAZpB2IIYBHInr4H2MNVml69WVLJrK+iHpT9OWuzFUh9vndlPbsmieah7BHyHBTh+I8wLjAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer">
+		<use id="Layer" style="opacity: .2" href="#img1" x="21" y="0"/>
+		<use id="Layer" style="opacity: .2" href="#img2" x="0" y="153"/>
+	</g>
+</svg>
